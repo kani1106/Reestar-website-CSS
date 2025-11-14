@@ -1,0 +1,92 @@
+
+*{
+    padding: 0;
+}
+*{
+    text-align: center;
+}
+.section-one{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.section-two{
+    height: 400px;
+    width: 200px;
+    background-color: white;
+    color: black;
+    border: solid black 1px;
+    display: inline-block;
+    vertical-align: top;
+    padding: 5px;
+   margin: 5px;
+}
+.section-three{
+      height: 400px;
+    width: 200px;
+    background-color: white;
+    color: black;
+    
+    border: solid black 1px;
+    display: inline-block;
+    vertical-align: top;
+    padding: 5px;
+   margin: 5px;
+}
+.section-four{
+    height: 400px;
+    width: 200px;
+    background-color: white;
+    color: black;
+    
+    border: solid black 1px;
+    display: inline-block;
+    vertical-align: top;
+    padding: 5px;
+   margin: 5px;
+}
+
+.section-five{
+    height: 400px;
+    width: 200px;
+    background-color: white;
+    color: black;
+    
+    border: solid black 1px;
+    display: inline-block;
+    vertical-align: top;
+    padding: 5px;
+   margin: 5px;
+}
+
+.section-one,.section-two,.section-three,.section-four,.section-five{
+    text-align: center;
+
+}
+.button,.button-one,.button-two,.button-three{
+    padding: 1px;
+    margin: 1px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+.contact{
+    background-color: black;
+    color: white;
+    text-align:center;
+    padding: 0px;
+    
+}
+.details{
+    display: inline-block;
+    text-align: center;
+}
+.button-det{
+   padding: 1px;
+    margin: 1px;
+    background-color:yellow;
+    color:black;
+    border: none;
+    cursor: none;
+}
